@@ -1,4 +1,4 @@
-- I'm Vince Montegrande, a first-year Math-CS major at UC San Diego
+- I'm Vince Montegrande, a second-year Math-CS major at UC San Diego
 
 <!--
 **vlmontegrande/vlmontegrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
