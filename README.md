@@ -1,4 +1,6 @@
-- I'm Vince Montegrande, a third-year Math-CS major at UC San Diego
+## I'm Vince Montegrande, a third-year Math-CS major at UC San Diego
+
+I'm currently an aspiring web developer with an emphasis on front-end. Feel free to reach out on Instagram or LinkedIn!
 
 <!--
 **vlmontegrande/vlmontegrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
