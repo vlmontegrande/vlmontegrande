@@ -1,4 +1,4 @@
-## I'm Vince Montegrande, a third-year Math-CS major at UC San Diego
+## I'm Vince Montegrande, a fourth-year Math-CS major at UC San Diego
 
 I'm currently an aspiring web developer with an emphasis on front-end. Feel free to reach out on Instagram or LinkedIn!
 
